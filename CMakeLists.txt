@@ -5,5 +5,5 @@ ADD_SUBDIRECTORY(src)
 AUX_SOURCE_DIRECTORY(. DIR_SRCS)
 ADD_EXECUTABLE(cPlusPlugin ${DIR_SRCS})
 TARGET_LINK_LIBRARIES(cPlusPlugin MainProcess)
-
+##add from github
 ##test git  1.0
