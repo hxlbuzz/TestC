@@ -1,0 +1,7 @@
+message TestRequest {
+  required int32 id = 1;
+  required int32 num = 2;
+  required string msg = 3;
+  optional int32 page_number = 4;  
+  optional int32 result_per_page = 5;  
+}
