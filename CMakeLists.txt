@@ -9,4 +9,3 @@ TARGET_LINK_LIBRARIES(cPlusPlugin MainProcess)
 #change again
 #once again
 ##test 
-#add from win
